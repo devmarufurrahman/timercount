@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    font-family: cursive;
+}
+
+.flexBody{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 3rem;
+}
+h2{
+    color: blueviolet;
+    font-weight: 700;
+    font-size: 2.5rem;
+    text-align: center;
+}
+.col{
+    width: 1000px;
+    margin: 15px auto;
+    display: flex;
+    justify-content: center;
+}
+.col div{
+    width: 250px;
+    text-align: center;
+}
+input{
+    border-radius: 7px;
+    height: 55px;
+    width: 60%;
+    text-align: center;
+    font-size: 25px;
+}

@@ -7,7 +7,7 @@ function clock() {
   const difference = (end - now) / 1000;
 
     if(difference<0){
-        window.location.replace("https://www.w3schools.com");
+        window.location.replace("https://www.linkedin.com/in/md-marufur-rahman-700/");
         target = "_blank";
     };
 

@@ -1,4 +1,4 @@
-const endDate = "16 December 2022 01:02 am";
+const endDate = "17 December 2022 01:02 am";
 document.getElementById("endDate").innerHTML = endDate
 
 function clock() {
